@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrackLineDemo</string>
+    <string name="myLocation">我的位置</string>
+    <string name="start_loc">开始跟踪</string>
+    <string name="end_loc">结束跟踪</string>
+    <string name="back_loc">跟踪回放</string>
+</resources>

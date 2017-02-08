@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item1"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/myLocation"/>
+    <item
+        android:id="@+id/item2"
+        android:orderInCategory="200"
+        app:showAsAction="never"
+        android:title="@string/start_loc"/>
+    <item
+        android:id="@+id/item3"
+        android:orderInCategory="300"
+        app:showAsAction="never"
+        android:title="@string/end_loc"/>
+    <item
+        android:id="@+id/item4"
+        android:orderInCategory="400"
+        app:showAsAction="never"
+        android:title="@string/back_loc"/>
+
+</menu>
